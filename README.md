@@ -1,3 +1,2 @@
-## Descriptive Statistics
-This is from my Udacty Bertelsmann Datascience Scholarship.
-You can apply [here](https://www.udacity.com/bertelsmann-data-scholarships)
+## Datascience Notebooks
+I intend to populate this repository with experimental notebooks.
